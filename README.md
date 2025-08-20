@@ -28,11 +28,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
 </div>
 
----
-
-### 🎮 Fun Zone
-<div align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="400" alt="Car animation"/>
-</div>
-
-
