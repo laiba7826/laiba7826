@@ -11,7 +11,7 @@
 - 💻 Currently working on **Java Desktop Applications** (GUI Projects)  
 - 🌱 Learning **OOP, Databases, and Machine Learning**
 - 🚀 Exploring **real-world coding projects** to sharpen my skills  
-- 📫 Reach me at **laibaidrees@example.com**  
+- 📫 Reach me at **www.linkedin.com/in/laiba-idrees-a14758319**  
 
 ###
 
