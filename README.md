@@ -26,14 +26,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
 
-  ###  My Car Racing Game Demo
-
-Click to see the action!
-
-<details>
-  <summary>▶ Watch Demo</summary>
-
-  <div align="center">
-    <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" alt="Car Racing Demo" width="500" />
-  </div>
-</details>
