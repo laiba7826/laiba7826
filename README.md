@@ -25,19 +25,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+
+  ###  My Car Racing Game Demo
+
+Click to see the action!
+
+<details>
+  <summary>▶ Watch Demo</summary>
+
   <div align="center">
-  <img src="https://media.giphy.com/media/l3vR7sYV3X8AEqbUY/giphy.gif" alt="Car Racing Game Demo" width="500"/>
-</div>
-
-</div>
-
-###
-
-<div align="left">
-  <a href="mailto:laibaidrees@example.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="https://www.linkedin.com/in/laibaidrees" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-</div>
-
-###
-
-<br clear="both">
+    <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" alt="Car Racing Demo" width="500" />
+  </div>
+</details>
