@@ -9,7 +9,7 @@
 ###
 
 - 💻 Currently working on **Java Desktop Applications** (GUI Projects)  
-- 🌱 Learning **OOP, Databases, and Software Quality Assurance (SQA)**  
+- 🌱 Learning **OOP, Databases, and Machine Learning**
 - 🚀 Exploring **real-world coding projects** to sharpen my skills  
 - 📫 Reach me at **laibaidrees@example.com**  
 
