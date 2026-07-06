@@ -4,17 +4,30 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **OOP, Databases,Machine Learning,AI/ML,EDA(Data cleaning)**
-- 💻 Building **Java and Python Applications (GUI Based)**
+
+- 🌱 Currently learning **OOP, Databases, Machine Learning, AI/ML & EDA (Data Cleaning)**
+- 💻 Building **Java & Python Applications (GUI Based)**
 - 🎯 Passionate about **turning ideas into real-world projects**
-- 📫 Let's connect on **[LinkedIn](https://www.linkedin.com/in/laiba-idrees-a14758319)**  
+- 📫 Let's connect on **[LinkedIn](https://www.linkedin.com/in/laiba-idrees-a14758319)**
 
 ---
 
 ### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laiba7826&show_icons=true&theme=radical&count_private=true" height="150" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laiba7826&theme=radical" height="150" alt="GitHub streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=laiba7826&show_icons=true&theme=radical&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=laiba7826&theme=radical&hide_border=true" height="170"/>
+
 </div>
 
---- 
+---
+
+### 🛠️ Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql,spring,git,github,vscode,html,css,js" />
+
+</div>
