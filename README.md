@@ -33,12 +33,19 @@ Passionate about building scalable applications, exploring Artificial Intelligen
 
 ---
 
-## 📊 GitHub Statistics
+# ⚡ Skills Snapshot
 
-<div align="center">
-<img src="https://ghstats.dev/api?username=laiba7826&theme=tokyonight&hide_border=true" />
+🖥️ Backend Development        █████████░
 
-</div>
+🐍 Python                     █████████░
+
+☕ Java                        █████████░
+
+🗄️ SQL & Databases            ████████░░
+
+🤖 AI / Machine Learning       ███████░░░
+
+⚛️ React & TypeScript          ██████░░░░
 ---
 
 # 🚀 Featured Projects
