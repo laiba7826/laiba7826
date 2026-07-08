@@ -33,13 +33,13 @@ Passionate about building scalable applications, exploring Artificial Intelligen
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=laiba7826&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=laiba7826&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=laiba7826&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -50,7 +50,6 @@ Passionate about building scalable applications, exploring Artificial Intelligen
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiba7826&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 ---
 
 # 🚀 Featured Projects
