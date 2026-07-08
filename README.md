@@ -36,8 +36,7 @@ Passionate about building scalable applications, exploring Artificial Intelligen
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=laiba7826&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://ghstats.dev/api?username=laiba7826&theme=tokyonight&hide_border=true" />
 
 </div>
 ---
