@@ -243,15 +243,13 @@ Open To:
 
 </div>
 
-### 🐍 Contribution Snake
+### 💬 Dev Quote of the Day
 
 <div align="center">
 
-https://raw.githubusercontent.com/laiba7826/laiba7826/output/github-contribution-grid-snake-dark.svg
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
-
-> To activate the snake animation, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to a repo named `laiba7826/laiba7826`.
 
 ---
 
