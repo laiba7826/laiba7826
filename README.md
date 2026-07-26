@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Laiba%20Idrees&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18"/>
+# 👋 Hi, I'm Laiba Idrees
+
+### 💻 Backend Developer • AI & Machine Learning Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Software+Solutions&font=Fira+Code&center=true&width=600&height=45&color=B388FF&vCenter=true&size=24&pause=1200&duration=3000"/>
 
@@ -268,7 +270,5 @@ Open To:
 <div align="center">
 
 ### *"Always learning, always building."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer"/>
 
 </div>
