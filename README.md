@@ -247,7 +247,7 @@ Open To:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/laiba7826/laiba7826/output/github-contribution-grid-snake-dark.svg"/>
+https://raw.githubusercontent.com/laiba7826/laiba7826/output/github-contribution-grid-snake-dark.svg
 
 </div>
 
