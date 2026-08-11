@@ -217,25 +217,6 @@ Open To:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=laiba7826&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=B388FF&icon_color=9C27B0&text_color=E0AAFF"/>
-
-<img src="https://streak-stats.demolab.com/?user=laiba7826&theme=tokyonight&hide_border=true&background=1a1a2e&ring=9C27B0&fire=B388FF&currStreakLabel=E0AAFF"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiba7826&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=B388FF&text_color=E0AAFF"/>
-
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=laiba7826&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8"/>
-
-</div>
 
 ### 📈 Contribution Activity
 
